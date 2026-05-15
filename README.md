@@ -69,5 +69,3 @@
 * BLAKE2: Brza alternativa SHA-2; koristi se za hashiranje podataka u aplikacijama gdje su brzina i sigurnost važni.
 * Salt + SHA-256: Osiguranje lozinki uz dodatnu zaštitu od Rainbow Table napada.
 
-## Možete posjetiti moju web stranicu!
-###   https://cybersecuritycfdtrading.com.hr/   ###
